@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.3",
   "changelog": "Initial release",
   "files": {
     "all.py": "https://raw.githubusercontent.com/Jay79953/Askify_updates/main/all.py"
@@ -10,3 +10,4 @@
   }
 
 }
+
