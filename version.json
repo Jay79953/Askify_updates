@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.0.0",
+  "changelog": "Initial release",
+  "files": {
+    "all.py": "https://raw.githubusercontent.com/Jay79953/Askify_updates/main/all.py"
+  },
+  "folders": {
+    "Access": "https://github.com/Jay79953/Askify_updates/raw/main/Access.zip",
+    "BOT_TEMPLATE": "https://github.com/Jay79953/Askify_updates/raw/main/BOT_TEMPLATE.zip"
+  }
+}
